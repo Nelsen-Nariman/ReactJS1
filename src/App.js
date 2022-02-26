@@ -1,9 +1,9 @@
 // Koding react di App.js aja
 // Selalu import react dlu diawal koding
-import react, { useState } from "react";
-import Timer from "./Timer";
+// import react, { useState } from "react";
+// import Timer from "./Timer";
 import "./style.css";
-import CssModule from "./style.module.css";
+// import CssModule from "./style.module.css";
 import PasswordCard from "./PasswordCard";
 import React from "react";
 // Functional Component

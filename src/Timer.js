@@ -3,7 +3,7 @@
 // - Class Component
 
 import React from "react";
-import react from "react";
+// import react from "react";
 
 const TimerFunctional = (props) => {
     let [user, setUser] = React.useState("peter");
@@ -24,11 +24,11 @@ const TimerFunctional = (props) => {
     );
 }
 
-class TimerClass extends React.Component{
-    render(){
-        return <h1>Hello Class</h1>
-    }
-}
+// class TimerClass extends React.Component{
+//     render(){
+//         return <h1>Hello Class</h1>
+//     }
+// }
 
 export default TimerFunctional;
 
